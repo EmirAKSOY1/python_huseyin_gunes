@@ -1,3 +1,10 @@
+"""
+Sınav Sorusuuu!!!!!!!!!!!
+
+"""
+
+
+
 def fonk(n):
     return lambda a: a*n
 
