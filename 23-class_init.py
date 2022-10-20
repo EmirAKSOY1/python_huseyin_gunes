@@ -6,3 +6,5 @@ class sinif():
 nesne=sinif("metin")
 
 print(nesne.metin)
+
+#yapıcı constructor metod
