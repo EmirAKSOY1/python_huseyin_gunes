@@ -1,0 +1,1 @@
+kendisine gönderilien sayılardan palindrom olanların toplayan diğerlerini bu toplamlarfan çıkaran geri döndüren fonksiyonu yazınız.
