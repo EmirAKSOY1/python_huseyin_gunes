@@ -1,4 +1,5 @@
 import csv 
+import pandas as pnd
 
 baslik = ["sicaklik","nem","basinc"]
 veri = [[30,75.5,10],[32,45.5,12],[35,78.5,50],[34,5.5,102]]
