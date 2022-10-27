@@ -7,5 +7,6 @@ print(veri.columns)#sütunları yazar
 print(veri[3:7])#ikisi arasındaki verileri gösterir.
 """
 print(veri.sort_values(by="sepal_length"))
+print(veri["sepal_length"].median())
 
 
