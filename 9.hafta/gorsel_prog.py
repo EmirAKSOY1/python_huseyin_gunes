@@ -1,6 +1,7 @@
 from tkinter import *
+from tkinter import messagebox
 
-window = Tk()
+window =Tk()
 
 
 window.title("selam")
@@ -32,12 +33,7 @@ def tkla():
         lbl3.grid(column=0,row=0)
         correct.mainloop()
     else:
-        yanlis=Tk()
-        window.title("yanlis")
-        
-        lbl4=Label(yanlis,text="Başka kapıya")
-        lbl4.grid(column=0,row=0)
-        yanlis.mainloop()
+        .messagebox(title="Hata",message="yanlış")
         
 
 
